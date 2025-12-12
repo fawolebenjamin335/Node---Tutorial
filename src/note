@@ -1,0 +1,39 @@
+'https://jsonplaceholder.typicode.com/users' 
+
+[
+    {
+        "id": 1,
+        "name": "Johan Smith",
+        "age": 28,
+        "city": "New York",
+        "img": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Emily Johnson",
+        "age": 34,
+        "city": "Los Angeles",
+        "img": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "age": 45,
+        "city": "Chicago",
+        "img": "https://randomuser.me/api/portraits/men/3.jpg"
+    },  
+    {
+        "id": 4,
+        "name": "Sarah Davis",
+        "age": 29,
+        "city": "Houston",
+        "img": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "age": 38,
+        "city": "Phoenix",
+        "img": "https://randomuser.me/api/portraits/men/5.jpg"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "rating": 8.8,
+        "year": 2025,      
+        "img": "https://www.boredpanda.com/blog/wp-content/uploads/2022/04/action-movies-64-624beefe74720__700.jpg",
+        "movieName": "Fury Road"
+
+
+    },
+    {
+        "id": 2,
+        "rating": 8.6,
+        "year": 2024,
+        "img": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_UF894,1000_QL80_.jpg",
+        "movieName": "      Dune"
+
+    },
+    {
+        "id": 3,
+        "rating": "9.0",
+        "year": 2008,      
+        "img": "https://m.media-amazon.com/images/I/51oBxmV-dML._AC_UF894,1000_QL80_.jpg",
+        "movieName": "The Dark Knight"
+
+
+    },
+    {
+        "id": 4,
+        "rating": 8.8,
+        "year": 1999,      
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/john-wick-franchise-poster.jpg",
+        "movieName": "John Wick"
+
+
+    },
+    {
+        "id": 5,
+        "rating": 8.9,
+        "year": 2025,      
+        "img": "https://youthvillage.co.ke/wp-content/uploads/movie-1.jpg",
+        "movieName": "Avengers: Endgame"
+
+
+    },
+    {
+        "id": 6,
+        "rating": 8.7,
+        "year": 1999,       
+        "img": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_UF894,1000_QL80_.jpg",
+        "movieName": "The Matrix"
+
+
+    }
+]
